@@ -1,6 +1,6 @@
 # tiny_example
 
-A new Flutter application.
+demo app to learn firebase concepts
 
 ## Getting Started
 
